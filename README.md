@@ -1,4 +1,4 @@
-# Oksana Blazhenko's QA Portfolio
+# Oksana Blazhenko's QA Portfolio (in the making)
 
 Welcome to my QA portfolio! This repository is a collection of my work, projects, and contributions related to Quality Assurance (QA) and software testing.
 
