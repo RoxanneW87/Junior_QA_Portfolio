@@ -38,7 +38,7 @@ I am a passionate and results-driven QA professional with over one year of exper
 - **LinkedIn:** [Click here](https://www.linkedin.com/in/oksana-blazhenko-674268246/)
 
 ## Resume
-- [Download My Resume](https://drive.google.com/file/d/1m_RATrgfknW6WrXNtUAhTcXqdNDwU2LR/view?usp=sharing)
+- [Download My Resume](https://drive.google.com/file/d/1KJo_5xbIpFbjSOmA7MFkIOespSjta_X8/view?usp=drive_link)
 
 ## Courses 
 - Fundamentals of Software Testing. [Certificate](https://clients.qatestlab.com/api/trainings/public_certificate_259786_32491.pdf)
